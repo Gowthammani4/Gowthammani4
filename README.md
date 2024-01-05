@@ -25,5 +25,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gowthammani4&show_icons=true&locale=en" alt="gowthammani4" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gowthammani4&" alt="gowthammani4" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com?user=gowthammani4&theme=radical" alt="gowthammani4" /></p>
 
