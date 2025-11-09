@@ -3,9 +3,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gowthammani4" alt="gowthammani4" /></a> </p>
 
-- 🔭 I’m currently working on **Ecommerce application using springboot and flutter**
+- 🔭 I’m a **Data Engineer**
 
-- 🌱 I’m currently learning **Springboot**
 
 - 📫 How to reach me **gowthammani7065@gmail.com**
 
